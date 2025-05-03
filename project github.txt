@@ -1,0 +1,7 @@
+finance-tracker/
+├── client/         # React or Next.js frontend
+├── server/         # API backend (Node or Python)
+├── README.md
+├── LICENSE
+├── .env.example
+└── docs/           # Diagrams, planning docs, etc.
